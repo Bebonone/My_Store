@@ -176,7 +176,7 @@ html {
      background-image: url(../image/airop.jpg);
      background-size: cover;
      background-repeat: no-repeat;
-     height: calc(100vh - 220px);
+     height: calc(100vh - 350px);
      position: relative;
  }
 
