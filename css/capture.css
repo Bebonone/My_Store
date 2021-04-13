@@ -518,8 +518,16 @@ html {
      font-size: 18px;
  }
 
- .footer span {
+  .footer span {
      font-weight: bold;
      color: var(--main-color);
+     font-family: 'Sofia', cursive;
+ }
+
+
+.footer span a{
+     text-decoration: none;
+     color: var(--main-color);
+     font-family: 'Sofia', cursive;
  }
  /* end footer */
