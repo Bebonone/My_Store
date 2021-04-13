@@ -261,6 +261,11 @@ html {
     padding-top: 5px;
     color: white;
 }
+
+.img-contain .w3-content img {
+    border-bottom-right-radius : 20px;
+    border-top-right-radius: 20px;
+}
  /* end slider */
  /* start services */
  .services {
